@@ -1,0 +1,66 @@
+1.Who deoloped python programming language
+Ans-guido van rossum 
+
+2.Which type does python programming support.
+Ans-Dynamic Typed
+
+3.Is python case sensative when dealing with identifiers?
+Ans-Yes
+
+4.what is the current extension of python file.
+Ans- .py
+
+5.Is python code compiled or interpreted?
+Ans-Interpreted
+
+6.Name a few block of code used to define to python programming?
+Ans-Function
+
+7.state a character used to single line comment in python?
+Ans- #
+
+8.Mention functions which can help us to find the version of python that we are working on?
+Ans- sys.version()
+
+9.Python supports the creation of anonymous function at runtime ,using construct callled?
+Ans- Lambda function
+
+10.what does pip stand for ?
+Ans- pip stand for PIP is a recursive acronym for “Preferred Installer Program” or PIP Installs Packages. It is a command-line utility that installs, reinstalls, or uninstalls PyPI packages with one simple command: pip.
+
+11.Mention few built in function in python?
+Ans- print(),len(),str(),int(),list(),dict(),set(),flote(),all() etc.
+
+12.What is the maximum posiible length of an identifier in python?
+Ans-Python identifiers are unlimited in length" but as per PEP-8 you should limit identifier to a maximum of 79 character for better readability but there is no restriction.
+
+13. What is benifits of python?
+Ans--Easy to Code, Easy to read, Free and Open-Source,Robust Standard Library,Object-Oriented and Procedure-Oriented,Interpreted language etc.
+
+
+14.How is memory managed in python?
+Ans-- Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager. 
+
+15.how to install python in windows and set path variable
+Ans- To install python -- 
+Step 1 − Select Version of Python to Install
+Step 2 − Download Python Executable Installer
+Step 3 − Run Executable Installer
+Step 4 − Verify Python is installed on Windows
+Step 5 − Verify Pip was installed
+We have successfully installed python and pip on our Windows system.
+
+The complete path of python.exe can be added by-->
+
+Right-clicking This PC and going to Properties.
+
+Clicking on the Advanced system settings in the menu on the left.
+
+Clicking on the Environment Variables button o​n the bottom right.
+
+In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+
+Clicking on New and entering Python’s install directory.
+
+16.is indentation required in python?
+Ans- Indentation is mandatory in python to define the blocks of statements. It is preferred to use whitespaces instead of tabs to indent in python
